@@ -4,7 +4,7 @@ A project intended to bring context to embodied computational agents. Layered br
 ### Legacy Account Repo
 https://github.com/Orthogonal-Research-Lab/Meta-brain-Models
 
-### Papers
+### OREL Papers
 
 Alicea, B., Dvoretskii, S., Felder, S., Gong, Z., Gupta, A., and Parent, J. (2020). [Developmental Embodied Agents as Meta-brain Models](https://www.irit.fr/devonn/2020/07/13/alicea.html). Workshop on Developmental Neural Networks (DevoNN), Alife 2020 Conference.
 
