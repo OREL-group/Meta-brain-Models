@@ -1,11 +1,14 @@
 # Meta-brain-Models
 A project intended to bring context to embodied computational agents. Layered brains from hybrid models! 
 
-### Legacy Accoutn Repo
+### Legacy Account Repo
 https://github.com/Orthogonal-Research-Lab/Meta-brain-Models
 
+### Papers
 
-## Legacy Account ReadMe
+Alicea, B., Dvoretskii, S., Felder, S., Gong, Z., Gupta, A., and Parent, J. (2020). [Developmental Embodied Agents as Meta-brain Models](https://www.irit.fr/devonn/2020/07/13/alicea.html). Workshop on Developmental Neural Networks (DevoNN), Alife 2020 Conference.
+
+
 ## Meta-brain Models
 <p align="center">
   <img src="https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/Assets%20and%20Media/Meta-brain%20Model%20I.png"><BR> 
