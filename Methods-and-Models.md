@@ -4,7 +4,7 @@ In our [legacy repository](https://github.com/Orthogonal-Research-Lab/Meta-brain
 
 2. [Allostasis Machines](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/tree/master/Allostasis%20Machines)  
 
-3. [Contextual Geopmetric Structures](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/tree/master/Contextual%20Neurodevelopmental%20Dynamics)  
+3. [Contextual Geometric Structures](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/tree/master/Contextual%20Neurodevelopmental%20Dynamics)  
 
 4. [Developmental Braitenberg Vehicle](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/tree/master/DBV)  
 
