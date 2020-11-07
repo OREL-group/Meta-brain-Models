@@ -1,4 +1,4 @@
-In our [legacy repository](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models), we have resource for the following model types:
+In our [legacy repository](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models), we have resources for the following model types:
 
 1. [Agent-based Models](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/tree/master/Agent-based%20Modeling)  
 
