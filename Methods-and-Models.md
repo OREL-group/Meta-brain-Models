@@ -1,6 +1,6 @@
 In our [legacy repository](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models), we have resources for the following model types:
 
-1. [Agent-based Models](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/tree/master/Agent-based%20Modeling)  
+1. [Agent-based Models Review](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/tree/master/Agent-based%20Modeling)  
 
 2. [Allostasis Machines](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/tree/master/Allostasis%20Machines)  
 
@@ -19,3 +19,5 @@ In our [legacy repository](https://github.com/Orthogonal-Research-Lab/Meta-brain
 9. [Morphogenetic Agents](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/tree/master/Morphogenetic%20Agents)
 
 10. [Observer-dependent Models](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/tree/master/Observer-dependent%20Models)
+
+11. [Animats Review](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/tree/master/Animats)
