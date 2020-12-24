@@ -22,6 +22,6 @@ In our [legacy repository](https://github.com/Orthogonal-Research-Lab/Meta-brain
 
 11. [Animats Review](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/tree/master/Animats)
 
-12. [Dual Inheritance](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/tree/master/Dual-Inheritance-and-Process-Models) and [Dual Process](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/tree/master/Dual-Inheritance-and-Process-Models) Models
+12. [Dual Inheritance](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/Dual-Inheritance-and-Process-Models/dual-inheritance.md) and [Dual Process](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/Dual-Inheritance-and-Process-Models/dual-process.md) Models
 
-13. [Ideological Connectionism](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/ICM/Ideological-Connectionism.md), [Ideological Game Theory](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/ICM/Ideological-Game-Theory.md), and [Ideological Reinforcement Learning]() Models
+13. [Ideological Connectionism](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/ICM/Ideological-Connectionism.md), [Ideological Game Theory](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/ICM/Ideological-Game-Theory.md), and [Ideological Reinforcement Learning](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/ICM/Ideological-Reinforcement-Learning.md) Models
