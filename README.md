@@ -34,6 +34,8 @@ Hao, K. (2020). [A debate between AI experts shows a battle over the technologyâ
 
 Wolff, M. and Vann, S.D. (2019). [The Cognitive Thalamus as a Gateway to Mental Representations](https://www.jneurosci.org/content/39/1/3). _Journal of Neuroscience_, 39(1), 3-14. doi:10.1523/JNEUROSCI.0479-18.2018
 
+__Resources__:
+AI Debate II (hosted by Montreal Neuro). [link](https://www.youtube.com/watch?v=YEC6LDcrAwI) [TwirlyBird Notes](https://docs.google.com/document/d/1xZvotLal1GDwLZqPx7k3ATTG7fwSqpej_w0tWERqIjY/edit)
 
 License CC-BY-SA 4.0 [link](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/CC-BY-SA%204.0%20License.md)  
 
