@@ -36,6 +36,8 @@ Steels, L. (2003). [Intelligence with representation](https://royalsocietypublis
 
 Wolff, M. and Vann, S.D. (2019). [The Cognitive Thalamus as a Gateway to Mental Representations](https://www.jneurosci.org/content/39/1/3). _Journal of Neuroscience_, 39(1), 3-14. doi:10.1523/JNEUROSCI.0479-18.2018
 
+Zhong, G., Wang, L-N., Xiao, X., and Dong, J. (2016). [An overview on data representation learning: From traditional feature learning to recent deep learning](https://www.sciencedirect.com/science/article/pii/S2405918816300459). _The Journal of Finance and Data Science_, 2(4), 265-278.
+
 __Resources__:  
 MAIN 2020 (hosted by Montreal AI-Neuro). [YouTube](https://www.youtube.com/channel/UCddp3o-ctW8rmYtfdDfVUkA)
 
