@@ -32,6 +32,8 @@ Cisek, P. (2019). [Resynthesizing behavior through phylogenetic refinement](http
 
 Hao, K. (2020). [A debate between AI experts shows a battle over the technology’s future](https://www.technologyreview.com/2020/03/27/950247/ai-debate-gary-marcus-danny-lange/). _MIT Technology Review_, March 27.
 
+Steels, L. (2003). [Intelligence with representation](https://royalsocietypublishing.org/doi/10.1098/rsta.2003.1257). _Philosophical Society A_, 361, 2381–2395.
+
 Wolff, M. and Vann, S.D. (2019). [The Cognitive Thalamus as a Gateway to Mental Representations](https://www.jneurosci.org/content/39/1/3). _Journal of Neuroscience_, 39(1), 3-14. doi:10.1523/JNEUROSCI.0479-18.2018
 
 __Resources__:  
