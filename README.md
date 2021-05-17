@@ -47,4 +47,4 @@ License CC-BY-SA 4.0 [link](https://github.com/Orthogonal-Research-Lab/Meta-brai
 
 __Presentations and Publications__:
 
-[Meta-brain Models: biologically complex agent-based models](). What AI can do for Agent-Based Modeling: Inverse Generative Social Science Workshop.
+[Meta-brain Models: biologically complex agent-based models](https://github.com/OREL-group/Proposals/blob/main/2021/Inverse%20Generative%20Social%20Science.md). What AI can do for Agent-Based Modeling: Inverse Generative Social Science Workshop.
