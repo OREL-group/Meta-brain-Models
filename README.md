@@ -45,3 +45,6 @@ AI Debate II (hosted by Montreal AI). [YouTube](https://www.youtube.com/watch?v=
 
 License CC-BY-SA 4.0 [link](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/blob/master/CC-BY-SA%204.0%20License.md)  
 
+__Presentations and Publications__:
+
+[Meta-brain Models: biologically complex agent-based models](). What AI can do for Agent-Based Modeling: Inverse Generative Social Science Workshop.
