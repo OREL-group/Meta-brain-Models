@@ -6,7 +6,10 @@ https://github.com/Orthogonal-Research-Lab/Meta-brain-Models
 
 ### OREL Papers
 
-Alicea, B., Dvoretskii, S., Felder, S., Gong, Z., Gupta, A., and Parent, J. (2020). [Developmental Embodied Agents as Meta-brain Models](https://www.irit.fr/devonn/2020/07/13/alicea.html). Workshop on Developmental Neural Networks (DevoNN), Alife 2020 Conference.
+Alicea, B. and Parent, J. (2021). [Meta-brain Models: biologically-inspired cognitive agents](https://arxiv.org/abs/2109.11938). _arXiv_, 2109.11938.
+
+
+Alicea, B., Dvoretskii, S., Felder, S., Gong, Z., Gupta, A., and Parent, J. (2020). [Developmental Embodied Agents as Meta-brain Models](https://www.irit.fr/devonn/2020/07/13/alicea.html). Workshop on _Developmental Neural Networks (DevoNN)_, Alife 2020 Conference.
 
 
 ## Meta-brain Models
