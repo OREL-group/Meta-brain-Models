@@ -6,8 +6,9 @@ https://github.com/Orthogonal-Research-Lab/Meta-brain-Models
 
 ### OREL Papers
 
-Alicea, B. and Parent, J. (2021). [Meta-brain Models: biologically-inspired cognitive agents](https://arxiv.org/abs/2109.11938). _arXiv_, 2109.11938.
+Alicea, B. and Parent, J. (2022) [Layers, Folds, and Semi-Neuronal Information Processing](https://www.sciencedirect.com/science/article/pii/S1877050922017811). _Procedia Computer Science_, 213, 443-452. 
 
+Alicea, B. and Parent, J. (2022). [Meta-brain Models: biologically-inspired cognitive agents](https://iopscience.iop.org/article/10.1088/1757-899X/1261/1/012019). _International Workshop on Embodied Intelligence, IOP Conference Series: Materials Science and Engineering_, 1261, 012019.
 
 Alicea, B., Dvoretskii, S., Felder, S., Gong, Z., Gupta, A., and Parent, J. (2020). [Developmental Embodied Agents as Meta-brain Models](https://www.irit.fr/devonn/2020/07/13/alicea.html). Workshop on _Developmental Neural Networks (DevoNN)_, Alife 2020 Conference.
 
